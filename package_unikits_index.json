@@ -16,8 +16,8 @@
                     "category": "Contributed",
                     "url": "https://github.com/pranav-skpl/UNIKITS_index/releases/download/1.0.0/hardware_stm32duino_unikits_1.0.0.zip",
                     "archiveFileName": "hardware_stm32duino_unikits_1.0.0.zip",
-                    "checksum": "SHA-256:11CB7C443472F0A92FB431113E0C65475D11F2A137849047D146CCE1AF6F6E4D",
-                    "size": "28376105",
+                    "checksum": "SHA-256:D895B818972EE570A924EF6D632D7D573B67F0775F7096F4E2B48CB646224011",
+                    "size": "28567045",
                     "boards": [
                         {
                             "name": "UNIKITS STM32F103 Board"
