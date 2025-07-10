@@ -1,0 +1,30 @@
+{
+  "packages": [
+    {
+      "name": "unikits",
+      "maintainer": "UNIKITS",
+      "websiteURL": "https://github.com/pranav-skpl/UNIKITS_index",
+      "email": "support@unikits.in",
+      "help": {
+        "online": "https://github.com/pranav-skpl/UNIKITS_index"
+      },
+      "platforms": [
+        {
+          "name": "UNIKITS STM32 Boards",
+          "architecture": "stm32",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://pranav-skpl.github.io/UNIKITS_index/hardware_stm32duino_unikits_1.0.0.zip",
+          "archiveFileName": "hardware_stm32duino_unikits_1.0.0.zip",
+          "checksum": "SHA-256:0FDA2621DE417CF7A6D35A1507A856EADDAA02A866A8FCE7A5A4D18190B4C100",
+          "size": "8421133",
+          "boards": [
+            { "name": "UNIKITS STM32F103 Board" }
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
