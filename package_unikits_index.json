@@ -14,7 +14,7 @@
                     "architecture": "stm32",
                     "version": "1.0.0",
                     "category": "Contributed",
-                    "url": "https://github.com/pranav-skpl/UNIKITS_index/releases/download/v1.0.0/hardware_stm32duino_unikits_1.0.0.zip",
+                    "url": "https://github.com/pranav-skpl/UNIKITS_index/releases/download/1.0.0/hardware_stm32duino_unikits_1.0.0.zip",
                     "archiveFileName": "hardware_stm32duino_unikits_1.0.0.zip",
                     "checksum": "SHA-256:11CB7C443472F0A92FB431113E0C65475D11F2A137849047D146CCE1AF6F6E4D",
                     "size": "28376105",
